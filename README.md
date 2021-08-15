@@ -24,4 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-(https://practica-vue-vic.netlify.app/ "Demo App")
+[Demo](https://practica-vue-vic.netlify.app/ "Demo App")
